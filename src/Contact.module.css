@@ -1,0 +1,11 @@
+.blockContainer{
+    width: 200px;
+    height: 300px;
+    border: 2px solid blue;
+}
+.link{
+    color: red;
+}
+label{
+    padding: 10px;
+}
