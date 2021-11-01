@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/formik/static/css/main.0a1b5d7d.chunk.css",
+    "main.js": "/formik/static/js/main.a4fc2910.chunk.js",
+    "main.js.map": "/formik/static/js/main.a4fc2910.chunk.js.map",
+    "runtime-main.js": "/formik/static/js/runtime-main.d5e60fe9.js",
+    "runtime-main.js.map": "/formik/static/js/runtime-main.d5e60fe9.js.map",
+    "static/js/2.b6463f9b.chunk.js": "/formik/static/js/2.b6463f9b.chunk.js",
+    "static/js/2.b6463f9b.chunk.js.map": "/formik/static/js/2.b6463f9b.chunk.js.map",
+    "static/js/3.d7163740.chunk.js": "/formik/static/js/3.d7163740.chunk.js",
+    "static/js/3.d7163740.chunk.js.map": "/formik/static/js/3.d7163740.chunk.js.map",
+    "index.html": "/formik/index.html",
+    "static/css/main.0a1b5d7d.chunk.css.map": "/formik/static/css/main.0a1b5d7d.chunk.css.map",
+    "static/js/2.b6463f9b.chunk.js.LICENSE.txt": "/formik/static/js/2.b6463f9b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5e60fe9.js",
+    "static/js/2.b6463f9b.chunk.js",
+    "static/css/main.0a1b5d7d.chunk.css",
+    "static/js/main.a4fc2910.chunk.js"
+  ]
+}
